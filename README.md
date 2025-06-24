@@ -143,7 +143,7 @@ Interested in a custom inventory solution for your business? Let's discuss how t
 
 - [Email ME](3rza.kaneki@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nevin-kadlec/)
-- <!--[Portfolio Website](TODO)-->
+<!--- [Portfolio Website](TODO)-->
 
 ## 🔧 Technical Details
 
