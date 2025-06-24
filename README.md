@@ -141,7 +141,7 @@ This tool demonstrates capabilities in:
 
 Interested in a custom inventory solution for your business? Let's discuss how this can be adapted to your specific needs.
 
-- [Email ME](3rza.kaneki@gmail.com)
+- [Email ME](mailto:3rza.kaneki@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nevin-kadlec/)
 <!--- [Portfolio Website](TODO)-->
 
