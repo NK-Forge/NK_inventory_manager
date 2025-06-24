@@ -95,6 +95,14 @@ Average cost per item: $203.37
 - **Reorder Report:** `reorder_report.csv` with suggested quantities and costs
 - **Sample Data:** `sample_inventory.csv` for testing (auto-generated if no file provided)
 
+### Sample Chart Output
+
+![Category Analysis](inventory_reports/category_analysis.png)
+_Category breakdown showing stock levels and inventory value distribution_
+
+![Low Stock Alert](inventory_reports/low_stock_alert.png)
+_Visual identification of products requiring immediate restocking_
+
 ## 🛠️ Customization Options
 
 ### Adjust Alert Thresholds
@@ -134,7 +142,7 @@ This tool demonstrates capabilities in:
 Interested in a custom inventory solution for your business? Let's discuss how this can be adapted to your specific needs.
 
 - [Email ME](3rza.kaneki@gmail.com)
-- [[LinkedIn](https://www.linkedin.com/in/nevin-kadlec/)]
+- [LinkedIn](https://www.linkedin.com/in/nevin-kadlec/)
 - <!--[Portfolio Website](TODO)-->
 
 ## 🔧 Technical Details
