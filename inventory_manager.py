@@ -311,7 +311,7 @@ class InventoryManager:
 def main():
     """Main function to demonstrate the inventory management tool"""
     print("🏪 SMART INVENTORY MANAGEMENT TOOL")
-    print("Portfolio Sample by [Your Name]")
+    print("Portfolio Sample by Nevin Kadlec")
     print("="*50)
     
     # Initialize the inventory manager
