@@ -9,8 +9,6 @@ Features:
 - Creates visual reports and analytics
 - Exports cleaned data and summaries
 - Handles multiple product categories
-
-Target Business Value: $800-1500 automation projects
 """
 
 import pandas as pd
