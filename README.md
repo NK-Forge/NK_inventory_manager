@@ -137,13 +137,15 @@ This tool demonstrates capabilities in:
 3. **Custom Development** - Adapt features to your specific business needs
 4. **Training & Support** - Ensure your team can maximize the tool's value
 
-## 📞 Contact
+### Contact Information
 
-Interested in a custom inventory solution for your business? Let's discuss how this can be adapted to your specific needs.
+**Nevin Kadlec** - Full-Stack Developer
 
-- [Email ME](mailto:3rza.kaneki@gmail.com)
+- [Email Me](mailto:3rza.kaneki@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nevin-kadlec/)
-<!--- [Portfolio Website](TODO)-->
+<!--- [Portfolio Projects](TODO)-->
+
+_Specializing in business automation, web applications, and productivity solutions_
 
 ## 🔧 Technical Details
 
