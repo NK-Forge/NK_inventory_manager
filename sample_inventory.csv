@@ -1,76 +1,51 @@
 Product Name,Category,Current Stock,Price,Supplier,Last Updated
-Wireless Headphones - Black,Electronics,102,240.17,Supplier_8,2025-06-24
-Smartphone Case - White,Electronics,188,181.46,Supplier_3,2025-06-24
-Laptop Stand - Silver,Electronics,74,141.01,Supplier_5,2025-06-24
-USB Cable - Blue,Electronics,99,47.99,Supplier_3,2025-06-24
-Cotton T-Shirt - Size S,Clothing,149,22.58,Supplier_8,2025-06-24
-Jeans - Size M,Clothing,157,68.42,Supplier_5,2025-06-24
-Winter Jacket - Size L,Clothing,160,95.44,Supplier_6,2025-06-24
-Running Shoes - Size XL,Clothing,88,91.61,Supplier_3,2025-06-24
-Garden Tools - Small,Home & Garden,107,157.17,Supplier_9,2025-06-24
-Plant Pot - Medium,Home & Garden,130,258.81,Supplier_7,2025-06-24
-LED Light - Large,Home & Garden,20,138.44,Supplier_2,2025-06-24
-Storage Box - Extra Large,Home & Garden,131,283.0,Supplier_2,2025-06-24
-Basketball - Pro,Sports,8,10.68,Supplier_2,2025-06-24
-Yoga Mat - Standard,Sports,83,76.85,Supplier_7,2025-06-24
-Protein Powder - Premium,Sports,171,151.57,Supplier_3,2025-06-24
-Water Bottle - Basic,Sports,80,82.07,Supplier_8,2025-06-24
-Fiction Novel - Hardcover,Books,131,97.63,Supplier_6,2025-06-24
-Cookbook - Paperback,Books,53,166.72,Supplier_6,2025-06-24
-Art Supplies - Large Print,Books,190,253.62,Supplier_2,2025-06-24
-Notebook - Deluxe,Books,189,278.43,Supplier_8,2025-06-24
-Face Cream - 50ml,Beauty,189,101.64,Supplier_2,2025-06-24
-Shampoo - 100ml,Beauty,110,249.64,Supplier_9,2025-06-24
-Makeup Brush - Large,Beauty,187,165.54,Supplier_9,2025-06-24
-Perfume - 200ml,Beauty,156,241.84,Supplier_1,2025-06-24
-Wireless Headphones - Black,Electronics,88,296.13,Supplier_8,2025-06-24
-Smartphone Case - White,Electronics,128,64.41,Supplier_8,2025-06-24
-Laptop Stand - Silver,Electronics,62,245.74,Supplier_1,2025-06-24
-USB Cable - Blue,Electronics,135,220.32,Supplier_1,2025-06-24
-Cotton T-Shirt - Size S,Clothing,122,27.76,Supplier_7,2025-06-24
-Jeans - Size M,Clothing,40,274.99,Supplier_9,2025-06-24
-Winter Jacket - Size L,Clothing,71,138.13,Supplier_1,2025-06-24
-Running Shoes - Size XL,Clothing,47,115.01,Supplier_8,2025-06-24
-Garden Tools - Small,Home & Garden,36,220.49,Supplier_8,2025-06-24
-Plant Pot - Medium,Home & Garden,34,144.82,Supplier_5,2025-06-24
-LED Light - Large,Home & Garden,174,215.68,Supplier_1,2025-06-24
-Storage Box - Extra Large,Home & Garden,4,171.01,Supplier_7,2025-06-24
-Basketball - Pro,Sports,26,159.67,Supplier_3,2025-06-24
-Yoga Mat - Standard,Sports,62,269.34,Supplier_1,2025-06-24
-Protein Powder - Premium,Sports,51,171.59,Supplier_4,2025-06-24
-Water Bottle - Basic,Sports,150,183.69,Supplier_4,2025-06-24
-Fiction Novel - Hardcover,Books,12,28.62,Supplier_3,2025-06-24
-Cookbook - Paperback,Books,85,264.85,Supplier_9,2025-06-24
-Art Supplies - Large Print,Books,133,140.21,Supplier_4,2025-06-24
-Notebook - Deluxe,Books,29,265.67,Supplier_7,2025-06-24
-Face Cream - 50ml,Beauty,91,110.74,Supplier_1,2025-06-24
-Shampoo - 100ml,Beauty,128,73.0,Supplier_9,2025-06-24
-Makeup Brush - Large,Beauty,115,109.65,Supplier_3,2025-06-24
-Perfume - 200ml,Beauty,102,54.4,Supplier_9,2025-06-24
-Wireless Headphones - Black,Electronics,61,71.29,Supplier_3,2025-06-24
-Smartphone Case - White,Electronics,171,77.76,Supplier_6,2025-06-24
-Laptop Stand - Silver,Electronics,159,158.51,Supplier_9,2025-06-24
-USB Cable - Blue,Electronics,179,112.9,Supplier_1,2025-06-24
-Cotton T-Shirt - Size S,Clothing,185,288.95,Supplier_7,2025-06-24
-Jeans - Size M,Clothing,129,215.4,Supplier_5,2025-06-24
-Winter Jacket - Size L,Clothing,112,299.33,Supplier_1,2025-06-24
-Running Shoes - Size XL,Clothing,1,153.78,Supplier_6,2025-06-24
-Garden Tools - Small,Home & Garden,86,87.91,Supplier_1,2025-06-24
-Plant Pot - Medium,Home & Garden,128,76.42,Supplier_2,2025-06-24
-LED Light - Large,Home & Garden,52,149.89,Supplier_6,2025-06-24
-Storage Box - Extra Large,Home & Garden,159,180.24,Supplier_7,2025-06-24
-Basketball - Pro,Sports,183,75.86,Supplier_6,2025-06-24
-Yoga Mat - Standard,Sports,23,144.26,Supplier_2,2025-06-24
-Protein Powder - Premium,Sports,197,123.24,Supplier_1,2025-06-24
-Water Bottle - Basic,Sports,123,155.4,Supplier_3,2025-06-24
-Fiction Novel - Hardcover,Books,147,101.82,Supplier_4,2025-06-24
-Cookbook - Paperback,Books,146,215.07,Supplier_3,2025-06-24
-Art Supplies - Large Print,Books,147,195.67,Supplier_4,2025-06-24
-Notebook - Deluxe,Books,160,122.88,Supplier_7,2025-06-24
-Face Cream - 50ml,Beauty,81,252.28,Supplier_9,2025-06-24
-Shampoo - 100ml,Beauty,177,277.85,Supplier_3,2025-06-24
-Makeup Brush - Large,Beauty,6,200.03,Supplier_9,2025-06-24
-Perfume - 200ml,Beauty,59,82.67,Supplier_1,2025-06-24
-Wireless Headphones - Black,Electronics,47,289.82,Supplier_5,2025-06-24
-Smartphone Case - White,Electronics,36,265.49,Supplier_7,2025-06-24
-Laptop Stand - Silver,Electronics,8,87.98,Supplier_3,2025-06-24
+Wireless Headphones - Black,Electronics,102,240.17,Supplier_8,2025-06-25
+Smartphone Case - White,Electronics,188,181.46,Supplier_3,2025-06-25
+Laptop Stand - Silver,Electronics,74,141.01,Supplier_5,2025-06-25
+USB Cable - Blue,Electronics,99,47.99,Supplier_3,2025-06-25
+Cotton T-Shirt - Size S,Clothing,149,22.58,Supplier_8,2025-06-25
+Jeans - Size M,Clothing,157,68.42,Supplier_5,2025-06-25
+Winter Jacket - Size L,Clothing,160,95.44,Supplier_6,2025-06-25
+Running Shoes - Size XL,Clothing,88,91.61,Supplier_3,2025-06-25
+Garden Tools - Small,Home & Garden,107,157.17,Supplier_9,2025-06-25
+Plant Pot - Medium,Home & Garden,130,258.81,Supplier_7,2025-06-25
+LED Light - Large,Home & Garden,20,138.44,Supplier_2,2025-06-25
+Storage Box - Extra Large,Home & Garden,131,283.0,Supplier_2,2025-06-25
+Basketball - Pro,Sports,8,10.68,Supplier_2,2025-06-25
+Yoga Mat - Standard,Sports,83,76.85,Supplier_7,2025-06-25
+Protein Powder - Premium,Sports,171,151.57,Supplier_3,2025-06-25
+Water Bottle - Basic,Sports,80,82.07,Supplier_8,2025-06-25
+Fiction Novel - Hardcover,Books,131,97.63,Supplier_6,2025-06-25
+Cookbook - Paperback,Books,53,166.72,Supplier_6,2025-06-25
+Art Supplies - Large Print,Books,190,253.62,Supplier_2,2025-06-25
+Notebook - Deluxe,Books,189,278.43,Supplier_8,2025-06-25
+Face Cream - 50ml,Beauty,189,101.64,Supplier_2,2025-06-25
+Shampoo - 100ml,Beauty,110,249.64,Supplier_9,2025-06-25
+Makeup Brush - Large,Beauty,187,165.54,Supplier_9,2025-06-25
+Perfume - 200ml,Beauty,156,241.84,Supplier_1,2025-06-25
+Wireless Headphones - Black,Electronics,88,296.13,Supplier_8,2025-06-25
+Smartphone Case - White,Electronics,128,64.41,Supplier_8,2025-06-25
+Laptop Stand - Silver,Electronics,62,245.74,Supplier_1,2025-06-25
+USB Cable - Blue,Electronics,135,220.32,Supplier_1,2025-06-25
+Cotton T-Shirt - Size S,Clothing,122,27.76,Supplier_7,2025-06-25
+Jeans - Size M,Clothing,40,274.99,Supplier_9,2025-06-25
+Winter Jacket - Size L,Clothing,71,138.13,Supplier_1,2025-06-25
+Running Shoes - Size XL,Clothing,47,115.01,Supplier_8,2025-06-25
+Garden Tools - Small,Home & Garden,36,220.49,Supplier_8,2025-06-25
+Plant Pot - Medium,Home & Garden,34,144.82,Supplier_5,2025-06-25
+LED Light - Large,Home & Garden,174,215.68,Supplier_1,2025-06-25
+Storage Box - Extra Large,Home & Garden,4,171.01,Supplier_7,2025-06-25
+Basketball - Pro,Sports,26,159.67,Supplier_3,2025-06-25
+Yoga Mat - Standard,Sports,62,269.34,Supplier_1,2025-06-25
+Protein Powder - Premium,Sports,51,171.59,Supplier_4,2025-06-25
+Water Bottle - Basic,Sports,150,183.69,Supplier_4,2025-06-25
+Fiction Novel - Hardcover,Books,12,28.62,Supplier_3,2025-06-25
+Cookbook - Paperback,Books,85,264.85,Supplier_9,2025-06-25
+Art Supplies - Large Print,Books,133,140.21,Supplier_4,2025-06-25
+Notebook - Deluxe,Books,29,265.67,Supplier_7,2025-06-25
+Face Cream - 50ml,Beauty,91,110.74,Supplier_1,2025-06-25
+Shampoo - 100ml,Beauty,128,73.0,Supplier_9,2025-06-25
+Makeup Brush - Large,Beauty,115,109.65,Supplier_3,2025-06-25
+Perfume - 200ml,Beauty,102,54.4,Supplier_9,2025-06-25
+Wireless Headphones - Black,Electronics,61,71.29,Supplier_3,2025-06-25
+Smartphone Case - White,Electronics,171,77.76,Supplier_6,2025-06-25

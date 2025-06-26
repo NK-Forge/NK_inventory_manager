@@ -2,7 +2,7 @@
 
 A comprehensive Python solution for automating inventory tracking, analysis, and reporting. This portfolio sample demonstrates advanced data processing, business intelligence, and automation capabilities for small to medium-sized businesses.
 
-**[View Live Demo](#usage)** | **[See Sample Reports](#features)**
+**[View Live Demo](#usage)** | **[See Sample Reports](#sample-output)**
 
 ## 🎯 Business Applications
 
@@ -49,7 +49,7 @@ pip install pandas matplotlib seaborn numpy
 
 ```bash
 # Clone and run
-git clone https://github.com/yourusername/python-inventory-manager
+git clone https://github.com/ErzaKaneki/python-inventory-manager
 cd python-inventory-manager
 python inventory_manager.py
 
