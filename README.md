@@ -2,7 +2,7 @@
 
 A comprehensive Python solution for automating inventory tracking, analysis, and reporting. This portfolio sample demonstrates advanced data processing, business intelligence, and automation capabilities for small to medium-sized businesses.
 
-**[View Live Demo](#usage)** | **[See Sample Reports](#sample-output)**
+**[View Live Demo](#usage)** | **[See Sample Reports](#-sample-output)**
 
 ## 🎯 Business Applications
 
