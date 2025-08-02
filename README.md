@@ -38,6 +38,7 @@ A comprehensive Python solution for automating inventory tracking, analysis, and
 - **Professional Output** - Business-ready charts and reports
 
 ## 🚀 Quick Start
+[Return-to-Top](#-Smart-Inventory-Management-&-Analysis-Tool)
 
 ### Prerequisites
 
@@ -56,7 +57,7 @@ pip install pandas matplotlib seaborn numpy
 
 ```bash
 # Clone and run
-git clone https://github.com/NK-Forge/NK-inventory-manager
+git clone https://github.com/NK-Forge/python_inventory_manager
 cd NK-inventory-manager
 python inventory_manager.py
 
@@ -103,6 +104,7 @@ Average cost per item: $203.37
 - **Sample Data:** `sample_inventory.csv` for testing (auto-generated if no file provided)
 
 ### Sample Chart Output
+[Return-to-Top](#-Smart-Inventory-Management-&-Analysis-Tool)
 
 ![Category Analysis](inventory_reports/category_analysis.png)
 _Category breakdown showing stock levels and inventory value distribution_
