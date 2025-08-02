@@ -38,7 +38,7 @@ A comprehensive Python solution for automating inventory tracking, analysis, and
 - **Professional Output** - Business-ready charts and reports
 
 ## 🚀 Quick Start
-**[Return-to-Top](#-Smart-Inventory-Management-&-Analysis-Tool)**
+**[Return-to-Top](#-smart-inventory-management--analysis-tool)**
 
 ### Prerequisites
 
@@ -104,7 +104,7 @@ Average cost per item: $203.37
 - **Sample Data:** `sample_inventory.csv` for testing (auto-generated if no file provided)
 
 ### Sample Chart Output
-**[Return-to-Top](#-Smart-Inventory-Management-&-Analysis-Tool)**
+**[Return-to-Top](#-smart-inventory-management--analysis-tool)**
 
 ![Category Analysis](inventory_reports/category_analysis.png)
 _Category breakdown showing stock levels and inventory value distribution_
