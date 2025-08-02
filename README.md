@@ -2,7 +2,7 @@
 
 A comprehensive Python solution for automating inventory tracking, analysis, and reporting. This portfolio sample demonstrates advanced data processing, business intelligence, and automation capabilities for small to medium-sized businesses.
 
-**[View Live Demo](#usage)** | **[See Sample Reports](#-sample-output)**
+**[Test Drive](#usage)** | **[See Sample Reports](#-sample-output)**
 
 ## 🎯 Business Applications
 
@@ -49,8 +49,8 @@ pip install pandas matplotlib seaborn numpy
 
 ```bash
 # Clone and run
-git clone https://github.com/ErzaKaneki/python-inventory-manager
-cd python-inventory-manager
+git clone https://github.com/NK-Forge/NK-inventory-manager
+cd NK-inventory-manager
 python inventory_manager.py
 
 # Choose demo mode:
@@ -60,7 +60,7 @@ python inventory_manager.py
 
 ### Input Data Format
 
-Your CSV file should include these columns (examples shown):
+Your CSV file should include these columns (examples shown below):
 
 ```csv
 Product Name,Category,Current Stock,Price,Supplier,Last Updated
@@ -141,7 +141,7 @@ This tool demonstrates capabilities in:
 
 **Nevin Kadlec** - Full-Stack Developer
 
-- [Email Me](mailto:3rza.kaneki@gmail.com)
+- [Email Me](mailto:dev@NK-Forge.com)
 - [LinkedIn](https://www.linkedin.com/in/nevin-kadlec/)
 <!--- [Portfolio Projects](TODO)-->
 
