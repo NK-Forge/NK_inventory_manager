@@ -41,6 +41,13 @@ A comprehensive Python solution for automating inventory tracking, analysis, and
 
 ### Prerequisites
 
+- **Python 3.8+**: Download from [python.org](https://www.python.org/downloads/)
+  - **Windows**: <u>Make sure</u> to check *"Add Python to PATH"* during installation
+  - **macOS**: Use the installer or `brew install python3`
+  - **Linux**: `sudo apt install python3 python3-pip` (Ubuntu/Debian)
+
+Then install dependencies:
+
 ```bash
 pip install pandas matplotlib seaborn numpy
 ```
@@ -143,7 +150,7 @@ This tool demonstrates capabilities in:
 
 - [Email Me](mailto:dev@NK-Forge.com)
 - [LinkedIn](https://www.linkedin.com/in/nevin-kadlec/)
-<!--- [Portfolio Projects](TODO)-->
+<!--- [Portfolio Projects](TODO)np-->
 
 _Specializing in business automation, web applications, and productivity solutions_
 
